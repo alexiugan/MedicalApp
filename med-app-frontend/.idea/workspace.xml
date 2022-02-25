@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b64d089e-a157-4015-8285-7fd5944f51a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/caregiver/api/caregiver-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caregiver/caregiver-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caregiver/components/caregiver-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caregiver/components/caregiver-remove-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caregiver/components/caregiver-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caregiver/components/caregiver-update-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doctor/api/doctor-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doctor/doctor-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login/login-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medication/medication-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medication/medication-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medication/medication-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medication/medication-remove-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medication/medication-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medication/medication-update-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medicationPlan/medication-plan-add-med.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medicationPlan/medication-plan-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medicationPlan/medication-plan-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medicationPlan/medication-plan-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medicationPlan/medication-plan-remove-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medicationPlan/medication-plan-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medicationPlan/medication-plan-update-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patient/api/patient-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patient/components/parient-remove-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patient/components/patient-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patient/components/patient-update-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patient/components/validators/patient-validators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/welcome/welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commons/api/rest-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/commons/api/rest-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation-bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation-bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/api/person-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/login/login-api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/components/person-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/login/login-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/components/person-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/patient/components/patient-table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/components/validators/person-validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/caregiver/components/validators/caregiver-validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/person-container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/patient/patient-container.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j6Les3hBCJ0LrKYfNFMGPU5Wrj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\login" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\doctor" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\doctor\components\validators" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\doctor\components" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\doctor\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\med-app-frontend\src\caregiver\components" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\patient" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\patient\components" />
+      <recent name="C:\Users\user\Desktop\CSC - anul 2\SD\SpringPractice\react-demo\src\patient\api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b64d089e-a157-4015-8285-7fd5944f51a7" name="Default Changelist" comment="" />
+      <created>1603119692441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603119692441</updated>
+      <workItem from="1603119694211" duration="963000" />
+      <workItem from="1603120685116" duration="3491000" />
+      <workItem from="1603725865717" duration="212000" />
+      <workItem from="1605525847575" duration="5199000" />
+      <workItem from="1605614759251" duration="12637000" />
+      <workItem from="1605642956085" duration="11591000" />
+      <workItem from="1605710376211" duration="594000" />
+      <workItem from="1605784800339" duration="7000" />
+      <workItem from="1605785396504" duration="12745000" />
+      <workItem from="1605981864554" duration="342000" />
+      <workItem from="1606003572987" duration="6186000" />
+      <workItem from="1606050590858" duration="7357000" />
+      <workItem from="1606064790448" duration="11000" />
+      <workItem from="1606072289055" duration="19026000" />
+      <workItem from="1606132523664" duration="2156000" />
+      <workItem from="1606135005503" duration="472000" />
+      <workItem from="1606666521275" duration="13751000" />
+      <workItem from="1606738088343" duration="8853000" />
+      <workItem from="1606753447639" duration="20000" />
+      <workItem from="1606771347864" duration="11857000" />
+      <workItem from="1606911587119" duration="4136000" />
+      <workItem from="1606946939549" duration="1240000" />
+      <workItem from="1606993143646" duration="74000" />
+      <workItem from="1607001096114" duration="4842000" />
+      <workItem from="1607080841546" duration="5315000" />
+      <workItem from="1607172160569" duration="1396000" />
+      <workItem from="1607183326774" duration="595000" />
+      <workItem from="1607256961903" duration="4550000" />
+      <workItem from="1609764615745" duration="5187000" />
+      <workItem from="1609769980538" duration="773000" />
+      <workItem from="1609806901350" duration="1266000" />
+      <workItem from="1609867984448" duration="11713000" />
+      <workItem from="1609924255918" duration="7596000" />
+      <workItem from="1610124619086" duration="887000" />
+      <workItem from="1610142336611" duration="20000" />
+      <workItem from="1610227796969" duration="6607000" />
+      <workItem from="1610239109429" duration="1707000" />
+      <workItem from="1610280937746" duration="334000" />
+      <workItem from="1610285913246" duration="655000" />
+      <workItem from="1610306985000" duration="6396000" />
+      <workItem from="1610543994039" duration="18316000" />
+      <workItem from="1610612754821" duration="16279000" />
+      <workItem from="1610636913297" duration="331000" />
+      <workItem from="1611096258068" duration="378000" />
+      <workItem from="1611136984810" duration="15000" />
+      <workItem from="1611406553735" duration="6276000" />
+      <workItem from="1611438370221" duration="3216000" />
+      <workItem from="1611490786541" duration="24892000" />
+      <workItem from="1612221684410" duration="362000" />
+      <workItem from="1612392862334" duration="1004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609873902547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1609873902547" />
+    <state x="427" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609869026353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="427" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1609869026353" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606079397850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606079397850" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610281258720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610281258720" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1603120437868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603120437868" />
+    <state x="65" y="25" key="new project wizard" timestamp="1610286571926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1610286571926" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1609876275363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1609876275363" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610622129630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610622129630" />
+  </component>
+</project>
